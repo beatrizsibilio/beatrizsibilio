@@ -1,4 +1,4 @@
-### Hi, I'm Beatriz Sibilio 👋
+### Hi, I'm Beatriz 👋
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Formada no Técnico em desenvolvimento de Sistemas
