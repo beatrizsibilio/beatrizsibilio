@@ -1,7 +1,7 @@
 ### Hi, I'm Beatriz 👋
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 📚 Formada no Técnico em desenvolvimento de Sistemas
+- 📚 Formada no técnico em Desenvolvimento de Sistemas
 - 🌱 Estudando python, C e typescript
 - ⚡ Sempre buscando conhecimento e disposta a aprender
 <br>
